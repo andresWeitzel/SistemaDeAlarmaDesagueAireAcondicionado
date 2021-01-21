@@ -17,7 +17,7 @@
 
 #### 3)Conectar el Arduino nano.
 
-#### 3)Entrar al ````"Administrador de Dispositivos"````e ir al apartado de  ````"Puertos"````, click derecho sobre este y clickear ````"Buscar cambios de Hardware"````. Se actualizará la lectura de puertos y de esta forma visualizaremos ````"USB-SERIAL CH340(COMX)"````
+#### 3)Entrar al ```` "Administrador de Dispositivos" ```` e ir al apartado de  ````"Puertos"````, click derecho sobre este y clickear ````"Buscar cambios de Hardware"````. Se actualizará la lectura de puertos y de esta forma visualizaremos ````"USB-SERIAL CH340(COMX)."````
 
 #### 4)Desde el IDE que se programe seleccionar placa y puerto correspondiente.
 
